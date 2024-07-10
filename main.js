@@ -1,5 +1,5 @@
-const evenodd1 = ()=> {
-    console.log("hellow word1")
+const evenodd2 = ()=> {
+    console.log("hellow word2")
 };
 
 const multidiv = ()=> {
